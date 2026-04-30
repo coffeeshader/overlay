@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "https://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+  <maintainer type="person">
+    <email>me@shader.coffee</email>
+    <name>Hélder Rodrigues</name>
+  </maintainer>
+  <upstream>
+    <remote-id type="github">ifreund/dumb_runtime_dir</remote-id>
+  </upstream>
+</pkgmetadata>
