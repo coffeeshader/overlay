@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "https://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+  <maintainer type="person">
+    <email>me@shader.coffee</email>
+    <name>Hélder Rodrigues</name>
+  </maintainer>
+  <upstream>
+    <remote-id type="github">eclipse-jdtls/eclipse.jdt.ls</remote-id>
+    <bugs-to>https://github.com/eclipse-jdtls/eclipse.jdt.ls/issues</bugs-to>
+  </upstream>
+</pkgmetadata>
