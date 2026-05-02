@@ -14,4 +14,7 @@ LICENSE="GPL-3+"
 SLOT="0"
 RESTRICT="test"
 
+RDEPEND="app-emacs/reformatter"
+BDEPEND="${RDEPEND}"
+
 SITEFILE="50${PN}-gentoo.el"
