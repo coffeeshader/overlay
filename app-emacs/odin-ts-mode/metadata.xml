@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE pkgmetadata SYSTEM "https://www.gentoo.org/dtd/metadata.dtd">
+<pkgmetadata>
+  <maintainer type="person">
+    <email>me@shader.coffee</email>
+    <name>coffeeshader</name>
+  </maintainer>
+  <upstream>
+    <remote-id type="github">Sampie159/odin-ts-mode</remote-id>
+    <bugs-to>https://github.com/Sampie159/odin-ts-mode/issues</bugs-to>
+  </upstream>
+</pkgmetadata>
